@@ -12,7 +12,7 @@ Um clone fullstack do chatgpt utilizando uma integração com o algoritmo do Ope
 <img src="" title="ChatGPT">
 </p> -->
 
-# O que foi usado nos projetos
+# Tecnologias utilizadas:
 
 ### Backend
   - Node
